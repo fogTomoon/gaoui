@@ -21,6 +21,6 @@
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fogTomoon/gaoui"
+    "url": "git://github.com/fogTomoon/gaoui"
   }
 }
