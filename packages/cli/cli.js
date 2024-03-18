@@ -77,7 +77,7 @@ if (options.help) {
 }
 
 const remoteList = {
-  1: "https://github.com/fogTomoon/gaoui.git",
+  1: "https://github.com/fogTomoon/gaoui.git#main",
   2: "https://github.com/qddidi/easyest.git",
 };
 const getUserInfo = async () => {

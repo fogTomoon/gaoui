@@ -1,6 +1,6 @@
 {
   "name": "@mrgaomin/gaoui",
-  "version": "1.0.6",
+  "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
   "module": "es/index.mjs",

@@ -4,7 +4,6 @@ import ora from "ora";
 import { resolve } from "path";
 
 let gitClone = (remote, name, option) => {
-  console.log("23");
   const downSpinner = ora("正在下载模板...").start();
   return new Promise((resolve, reject) => {
     download(remote, name, option, (err) => {
