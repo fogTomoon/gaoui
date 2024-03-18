@@ -1,0 +1,37 @@
+{
+  "hash": "44d67f5f",
+  "configHash": "93b40b1e",
+  "lockfileHash": "9ea281d1",
+  "browserHash": "7fad418e",
+  "optimized": {
+    "vue": {
+      "src": "../../../../../node_modules/.pnpm/vue@3.4.21_typescript@5.4.2/node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "bea4f196",
+      "needsInterop": false
+    },
+    "vitepress > @vue/devtools-api": {
+      "src": "../../../../../node_modules/.pnpm/@vue+devtools-api@7.0.17_vue@3.4.21/node_modules/@vue/devtools-api/dist/index.js",
+      "file": "vitepress___@vue_devtools-api.js",
+      "fileHash": "12c495e0",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/core": {
+      "src": "../../../../../node_modules/.pnpm/@vueuse+core@10.9.0_vue@3.4.21/node_modules/@vueuse/core/index.mjs",
+      "file": "vitepress___@vueuse_core.js",
+      "fileHash": "131a3f41",
+      "needsInterop": false
+    },
+    "easyest": {
+      "src": "../../../../../node_modules/.pnpm/easyest@1.0.7/node_modules/easyest/es/index.mjs",
+      "file": "easyest.js",
+      "fileHash": "9c32155a",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-HYLD5MID": {
+      "file": "chunk-HYLD5MID.js"
+    }
+  }
+}

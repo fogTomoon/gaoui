@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:easyest": "gulp -f packages/components/script/build/index.ts",
-    "publish:easyest": "gulp -f packages/components/script/publish/index.ts"
+    "publish:easyest": "gulp -f packages/components/script/publish/index.ts",
+    "publish:cli": "gulp -f packages/components/script/publish/cli.ts"
   },
   "keywords": [],
   "author": "",
