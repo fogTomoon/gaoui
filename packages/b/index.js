@@ -1,2 +1,2 @@
-import say from "@myComponent/a";
+import say from '@myComponent/a';
 say();
